@@ -1,3 +1,5 @@
-## Boosting Algoritmaları nasıl çalışır?
+## How do boosting algorithms work?
 
-Medium.com'da boosting algoritmalarının nasıl çalıştığını anlattığım makalede geçen görselleri ve kodları buradan inceleyebilirsiniz.
+You can see the codes and graphs I used in my article about "How do boosting algorithms work" on Medium.com
+
+The Turkish and English versions of Gradient Descent both exist as different notebooks.
